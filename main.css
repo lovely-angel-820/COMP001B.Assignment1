@@ -1,16 +1,13 @@
-h1 {
+.h1 {
     text-decoration: underline;
-}
- {
-    font-weight: bold;
+    font-weight: bold; /* Combine this into the h1 block */
 }
 
 #copyright {
     font-size: 80%;
 }
 
-
-img {
+.img {
     border: 2px solid #ccc; /* Light gray border */
     padding: 10px; /* Padding inside the border */
     margin: 20px 0; /* Margin above and below the image */
